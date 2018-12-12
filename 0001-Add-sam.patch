@@ -1,0 +1,46 @@
+From 44f55a28a80b2699380b52ff4ce80f6135bd5903 Mon Sep 17 00:00:00 2001
+From: srinivasbv22 <srinivasbv22@gmail.com>
+Date: Wed, 12 Dec 2018 08:44:24 +0000
+Subject: [PATCH] Add sam
+
+---
+ README.md | 5 -----
+ sam       | 2 ++
+ sample    | 4 ----
+ 3 files changed, 2 insertions(+), 9 deletions(-)
+ delete mode 100644 README.md
+ create mode 100644 sam
+ delete mode 100644 sample
+
+diff --git a/README.md b/README.md
+deleted file mode 100644
+index 0a3a227..0000000
+--- a/README.md
++++ /dev/null
+@@ -1,5 +0,0 @@
+-cfgvbjhjnk1
+-simple change to see in git diff
+-
+-# final
+-checking all functions
+diff --git a/sam b/sam
+new file mode 100644
+index 0000000..7b50e38
+--- /dev/null
++++ b/sam
+@@ -0,0 +1,2 @@
++wedrgtyjurg
++wefrthy
+diff --git a/sample b/sample
+deleted file mode 100644
+index 305829e..0000000
+--- a/sample
++++ /dev/null
+@@ -1,4 +0,0 @@
+-sample txt 
+-create new file
+-adding text to branch one 
+-added a line
+-- 
+2.7.4
+
